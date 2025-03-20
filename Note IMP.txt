@@ -1,0 +1,4 @@
+Bank balance	207,357.46	
+Cash in Hand	10,720	(5104+5900)
+Corpus Fund 	65,000	Bank Balance 13*5000
+		
